@@ -72,6 +72,6 @@ function logoutSimples() {
         window.parent.setMainIframePage("home");
     } else {
         refreshAuthUI();
-        window.location.href = "../main/index.html";
+        window.location.href = "../index.html";
     }
 }
