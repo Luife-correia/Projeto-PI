@@ -87,9 +87,7 @@ Depois da criacao desta base inicial, o projeto foi recriado em Angular, com uma
 
 Repositorio da versao Angular: 
 
-```text
 **https://github.com/juniorsousa53339-svg/PI-ecommerce-informatica/tree/pi-Angular**
-```
 
 ## Observacao
 
