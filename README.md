@@ -6,7 +6,7 @@ O projeto foi criado em grupo como Projeto Integrador da faculdade, servindo com
 
 A partir desta versao inicial, desenvolvemos uma nova implementacao utilizando **100% Angular**, mantida em outro repositorio.
 
-> Link da versao em Angular: **[https://github.com/juniorsousa53339-svg/PI-ecommerce-informatica/tree/pi-Angular]**
+> Link da versao em Angular: **https://github.com/juniorsousa53339-svg/PI-ecommerce-informatica/tree/pi-Angular**
 
 ## Sobre o projeto
 
@@ -70,7 +70,7 @@ Por ser um projeto feito apenas com HTML, CSS e JavaScript puro, nao e necessari
 1. Clone o repositorio:
 
 ```bash
-git clone [https://github.com/Luife-correia/Projeto-PI.git]
+git clone https://github.com/Luife-correia/Projeto-PI.git
 ```
 
 2. Acesse a pasta do projeto:
@@ -85,7 +85,11 @@ cd Projeto-PI
 
 Depois da criacao desta base inicial, o projeto foi recriado em Angular, com uma estrutura mais moderna, componentizada e adequada para evolucao da aplicacao.
 
-Repositorio da versao Angular: **[https://github.com/juniorsousa53339-svg/PI-ecommerce-informatica/tree/pi-Angular]**
+Repositorio da versao Angular: 
+
+```text
+**https://github.com/juniorsousa53339-svg/PI-ecommerce-informatica/tree/pi-Angular**
+```
 
 ## Observacao
 
